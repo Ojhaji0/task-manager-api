@@ -6,20 +6,15 @@
 
 ##  How to Run the Project
 
-### 1. Clone or download the project
 
-```bash
-git clone <your-repo-link>
-cd task-manager-api
-```
 
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the server
+### 2. Start the server
 
 ```bash
 npm start
@@ -45,7 +40,7 @@ Each task contains:
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ---
 
