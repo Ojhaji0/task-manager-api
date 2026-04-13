@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone or download the project
 
@@ -33,7 +33,7 @@ http://localhost:3000
 
 ---
 
-## 📌 Task Structure
+##  Task Structure
 
 Each task contains:
 
@@ -115,7 +115,7 @@ curl -X DELETE http://localhost:3000/tasks/1
 
 ---
 
-## ⭐ Bonus Features
+##  Bonus Features
 
 ### Filter by status
 
@@ -131,7 +131,7 @@ curl "http://localhost:3000/tasks?sort=createdAt"
 
 ---
 
-## ⚠️ Error Handling
+##  Error Handling
 
 ### 400 Bad Request
 
@@ -159,7 +159,7 @@ curl "http://localhost:3000/tasks?sort=createdAt"
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express.js
